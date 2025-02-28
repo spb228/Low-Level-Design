@@ -46,9 +46,9 @@ public:
 private:
     vehicle_type_enum v_type; 
     int v_size;
-    const int sedan_size = 1; 
-    const int limo_size = 2; 
-    const int semi_size = 3; 
+    const int sedan_size = 1; // 1 parking spot
+    const int limo_size = 2;  // 2 parking spots
+    const int semi_size = 3;  // 3 parking spots
 };
 
 
