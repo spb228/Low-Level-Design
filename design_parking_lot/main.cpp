@@ -73,5 +73,9 @@ Requirements
 - Vechicle gets charged at the exit for variable time they stayed
 
 
+Lot Floor Design:
+- 10 adjacent parking spots in one row for now for each floor. 
+
+ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 */
